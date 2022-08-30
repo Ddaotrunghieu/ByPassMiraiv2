@@ -1,6 +1,6 @@
 {
-    "name": "tnhan",
-    "version": "2.1.0",
+    "name": "JG",
+    "version": "3.1.0",
     "description": "Scoure Bot Miraiv2",
     "main": "mirai.js",
     "scripts": {
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/tnhansg/ByPassMiraiv2.git"
+        "url": "git+https://github.com/Ddaotrunghieu/ByPassMiraiv2.git"
     },
-    "author": "tnhan",
+    "author": "T.Hieu (JG)",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "^1.0.9",
