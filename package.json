@@ -1,6 +1,6 @@
 {
     "name": "JG",
-    "version": "3.1.0",
+    "version": "5.7.0",
     "description": "Scoure Bot Miraiv2",
     "main": "mirai.js",
     "scripts": {
