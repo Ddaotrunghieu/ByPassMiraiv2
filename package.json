@@ -1,7 +1,7 @@
 {
-    "name": "JG",
-    "version": "5.7.0",
-    "description": "Scoure Bot Miraiv2",
+    "name": "Kaneki",
+    "version": "7.1.0",
+    "description": "Kaneki Bot Scoure Miraiv2",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/Ddaotrunghieu/ByPassMiraiv2.git"
     },
-    "author": "T.Hieu (JG)",
+    "author": "T.Hieudzs1tg (Kaneki)",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "^1.0.9",
