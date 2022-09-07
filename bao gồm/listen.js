@@ -23,7 +23,7 @@ module.exports = function ({
         }, _0x26e6(_0x2428d0, _0x17479f);
     }
     function _0x1d17() {
-        const _0x588a03 = ['set', 'getText', '30blgkRI', '2969628CmsViG', 'name', 'allThreadID', 'threadID', 'ADMINBOT', 'allCurrenciesID', '83150EMGxJg', 'loadedEnvironmentThread', '44JeTSqe', '1IZPZiM', 'data', '7419027NdGbTr', 'loader', 'failLoadEnvironment', '372HVpTmT', 'userName', 'userID', 'error', 'threadBanned', 'startLoadEnvironment', 'banned', 'length', 'allUserID', '8wPbHPr', 'listen', 'userBanned', '423572knglHc', 'TNHAN', 'commandBanned', '21114171cvgVXS', '308435AcJdyC', 'threadData', 'threadInfo', 'getAll', 'reason', 'DATA', '41001iXBmLG', '1206ETzdKD', 'push'];
+        const _0x588a03 = ['set', 'getText', '30blgkRI', '2969628CmsViG', 'name', 'allThreadID', 'threadID', 'ADMINBOT', 'allCurrenciesID', '83150EMGxJg', 'loadedEnvironmentThread', '44JeTSqe', '1IZPZiM', 'data', '7419027NdGbTr', 'loader', 'failLoadEnvironment', '372HVpTmT', 'userName', 'userID', 'error', 'threadBanned', 'startLoadEnvironment', 'banned', 'length', 'allUserID', '8wPbHPr', 'listen', 'userBanned', '423572knglHc', 'Kaneki', 'commandBanned', '21114171cvgVXS', '308435AcJdyC', 'threadData', 'threadInfo', 'getAll', 'reason', 'DATA', '41001iXBmLG', '1206ETzdKD', 'push'];
         _0x1d17 = function () {
             return _0x588a03;
         };
@@ -71,13 +71,13 @@ module.exports = function ({
                 if (_0x109449['data'] && _0x109449[_0x3f3f56(0x17a)][_0x3f3f56(0x162)] && _0x109449[_0x3f3f56(0x17a)][_0x3f3f56(0x162)][_0x3f3f56(0x15b)] != 0x0) global['data'][_0x3f3f56(0x162)]['set'](_0x95d694, _0x109449[_0x3f3f56(0x17a)][_0x3f3f56(0x162)]);
             }
             for (const _0x71afe4 of _0x265d5b) global[_0x3f3f56(0x17a)][_0x3f3f56(0x175)]['push'](String(_0x71afe4[_0x3f3f56(0x180)]));
-            logger['loader']('BOT TNHAN BẮT ĐẦU NHẬN LỆNH');
+            logger['loader']('BOT Kaneki BẮT ĐẦU NHẬN LỆNH');
         } catch (_0x5d6a2b) {
             return logger[_0x3f3f56(0x17c)](global[_0x3f3f56(0x16e)](_0x3f3f56(0x15e), _0x3f3f56(0x17d), _0x5d6a2b), _0x3f3f56(0x181));
         }
-    }()), logger('\x0a\x0a████████╗███╗░░██╗██╗░░██╗░█████╗░███╗░░██╗\x0a╚══██╔══╝████╗░██║██║░░██║██╔══██╗████╗░██║\x0a░░░██║░░░██╔██╗██║███████║███████║██╔██╗██║░\x0a░░░██║░░░██║╚████║██╔══██║██╔══██║██║╚████║\x0a░░░██║░░░██║░╚███║██║░░██║██║░░██║██║░╚███║\x0a░░░╚═╝░░░╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝\x0a', _0x23b7cb(0x161)), logger(global['config'][_0x23b7cb(0x174)] + ' - TNHAN', 'Thông tin Adminbot'));
-    logger(`${api.getCurrentUserID()} - 『 ${global.config.PREFIX} 』 • ${(!global.config.BOTNAME) ? "This bot was made by Tnhan" : global.config.BOTNAME}`, "THÔNG TIN BOT");
-    const handleCommand = require("./handle/handleCommand")({
+    }()), logger('\x0a\x0aChào Chúc Bạn Sử Dụng Bot Kaneki Vui Vẻ UwU\x0a', _0x23b7cb(0x161)), logger(global['config'][_0x23b7cb(0x174)] + ' - Kaneki', 'Thông Tin Adminbot'));
+    logger(`${api.getCurrentUserID()} - 『 ${global.config.PREFIX} 』 • ${(!global.config.BOTNAME) ? "This Bot Was Made By Kaneki" : global.config.BOTNAME}`, "THÔNG TIN BOT");
+    const handleCommand = require./handle/handleCommand")({
         api,
         models,
         Users,
