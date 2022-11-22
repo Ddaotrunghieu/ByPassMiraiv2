@@ -1,6 +1,6 @@
 {
     "name": "Mirai-V2",
-    "version": "7.1.0",
+    "version": "1.2.15",
     "description": "Bot Made By T.Hieu",
     "main": "mirai.js",
     "scripts": {
